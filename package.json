@@ -1,6 +1,6 @@
 {
   "name": "grunt-peach",
-  "description": "Search and replace strings in SQL dumps, including PHP serialized strings."
+  "description": "Search and replace strings in SQL dumps, including PHP serialized strings.",
   "version": "0.0.1",
   "homepage": "https://github.com/davidosomething/grunt-peach",
   "author": {
