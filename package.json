@@ -1,7 +1,7 @@
 {
   "name": "grunt-peach",
   "description": "Search and replace strings in SQL dumps, including PHP serialized strings.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/davidosomething/grunt-peach",
   "author": {
     "name": "David O'Trakoun",
@@ -23,6 +23,9 @@
   "main": "Gruntfile.js",
   "engines": {
     "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
   },
   "readmeFilename": "README.md",
   "devDependencies": {
