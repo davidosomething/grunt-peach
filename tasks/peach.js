@@ -1,5 +1,9 @@
 /*
  * grunt-peach
+ * http://github.com/davidosomething/grunt-peach
+ *
+ * Copyright (c) 2013 David O'Trakoun
+ * Licensed under the MIT license
  */
 module.exports = function (grunt) {
   'use strict';
