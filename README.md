@@ -62,4 +62,5 @@ grunt.initConfig({
 
 ## Release History
 
+ * 2013-05-24   v0.0.3   Fix writing to dest file
  * 2013-05-24   v0.0.1   Initial release

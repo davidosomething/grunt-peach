@@ -28,7 +28,7 @@ module.exports = function (grunt) {
         failed = force;
       }
       if (!failed) {
-        grunt.file.write(outputFile);
+        grunt.file.write(outputFile, data);
         grunt.log.ok('Wrote migrated SQL dump to ' + outputFile);
       }
       else {
