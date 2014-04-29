@@ -2,7 +2,7 @@
 
 > Search and replace strings in SQL dumps, including PHP serialized strings.
 
-[![NPM](https://nodei.co/npm/request.png)](https://nodei.co/npm/request/)
+[![NPM](https://nodei.co/npm/grunt-peach.png)](https://nodei.co/npm/grunt-peach/)
 
 BETA - it's pretty much the code from [Peach by Pete Saia](https://github.com/petesaia/Peach)
 which has its own tests. I've tested this on production environments and it's
