@@ -1,11 +1,12 @@
-# grunt-peach 
+# grunt-peach
 
 > Search and replace strings in SQL dumps, including PHP serialized strings.
 
-Based on [Peach by Pete Saia](https://github.com/petesaia/Peach)
+[![NPM](https://nodei.co/npm/request.png)](https://nodei.co/npm/request/)
 
-BETA - not tested - use at your own risk - but it's pretty much the code from
-the Peach repo, which @petesaia has tests for.
+BETA - it's pretty much the code from [Peach by Pete Saia](https://github.com/petesaia/Peach)
+which has its own tests. I've tested this on production environments and it's
+fine.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.0`
@@ -58,7 +59,6 @@ grunt.initConfig({
 
  * Move output to grunt task instead of migrate.js exported module 
  * Optional async
- * Test (lol)
 
 ## Release History
 
