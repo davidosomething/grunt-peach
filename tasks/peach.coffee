@@ -1,8 +1,11 @@
 # grunt-peach
-# http://github.com/davidosomething/grunt-peach
+# https://github.com/davidosomething/grunt-peach
 #
 # Copyright (c) 2013 David O'Trakoun
 # Licensed under the MIT license
+#
+# Peach dependency is licensed under BSD, please
+# @see {@link https://github.com/petesaia/Peach}
 
 Peach = require 'PeachTests/assets/js/peach'
 
