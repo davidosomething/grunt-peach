@@ -69,6 +69,10 @@ grunt.initConfig({
 
 ## Release History
 
+### 2016-02-21 - v1.1.0
+
+- Update grunt version flag for grunt 1.x.x
+
 ### 2016-02-04 - v1.0.0
 
 - Update Peach dependency repo since it was republished
